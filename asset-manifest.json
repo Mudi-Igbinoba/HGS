@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/HGS/static/css/main.cf6746de.css",
+    "main.js": "/HGS/static/js/main.41dd923d.js",
+    "static/media/grace-dress.webp": "/HGS/static/media/grace-dress.9d286e16e1eb4ce9eca4.webp",
+    "static/media/Ruth-dress-1.webp": "/HGS/static/media/Ruth-dress-1.8130cea350ccefe6523b.webp",
+    "static/media/jessica-dress.webp": "/HGS/static/media/jessica-dress.19afa7ddc8e9fc316830.webp",
+    "static/media/anita-dress.webp": "/HGS/static/media/anita-dress.7c5d8c4c67897ba9287f.webp",
+    "static/media/BB-Ensemble-1.webp": "/HGS/static/media/BB-Ensemble-1.ac768b6c4bc05d1e5b02.webp",
+    "static/media/naomi-dress.webp": "/HGS/static/media/naomi-dress.c34d87101352b97f2c44.webp",
+    "static/media/esta-dress.webp": "/HGS/static/media/esta-dress.83f24c4238a0e9473ea4.webp",
+    "static/media/pink-blouse.webp": "/HGS/static/media/pink-blouse.436e42730069538ed83e.webp",
+    "static/media/yellow-dress.webp": "/HGS/static/media/yellow-dress.0a29d74aed4c6dc181d1.webp",
+    "static/media/pomegranate-blouse.webp": "/HGS/static/media/pomegranate-blouse.7b8d372fc020acc2e336.webp",
+    "static/media/chia-dress.webp": "/HGS/static/media/chia-dress.6d24194cb09838817d23.webp",
+    "static/media/wildrice-dress.webp": "/HGS/static/media/wildrice-dress.842cdfa3bc20d1d0a97f.webp",
+    "static/media/quinoa-dress.webp": "/HGS/static/media/quinoa-dress.c6bd231e4f982dfb7c4d.webp",
+    "static/media/sesame-dress.webp": "/HGS/static/media/sesame-dress.ceed0569ce9ffaadc3a9.webp",
+    "static/media/pistachio-blouse.webp": "/HGS/static/media/pistachio-blouse.32a43c38c25a6d218797.webp",
+    "static/media/hazel-shirt.webp": "/HGS/static/media/hazel-shirt.76367378322cbf61fac1.webp",
+    "static/media/footerlogo.webp": "/HGS/static/media/footerlogo.8b610ae7d866101615ea.webp",
+    "index.html": "/HGS/index.html",
+    "main.cf6746de.css.map": "/HGS/static/css/main.cf6746de.css.map",
+    "main.41dd923d.js.map": "/HGS/static/js/main.41dd923d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf6746de.css",
+    "static/js/main.41dd923d.js"
+  ]
+}
